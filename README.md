@@ -15,6 +15,7 @@
 * Desktop Specification:
   *  CPU: i5-10400F
   *  RAM: Samsung DDR4 2666MHz 8GB*2
+  *  GPU: GeForce GTX 960 2GB
   *  Storage: Micron Crucial P5 Plus 500GB(Windows 11), Samsung SATA SSD 128GB(Ubuntu 21.10), Western Digital SATA HDD 1TB(Lots and lots of garbages)
 * OS: Windows 11 mostly for gaming, Ubuntu 21.10 for programming
 * Keyboard: Maxtill G610K V2 blue switch for gaming, Leopold FC750RBT silent red switch for coding and searching programmer memes at 2am
